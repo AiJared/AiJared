@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jared</h1>
-<h3 align="center">Data Scientist and Machine Learning Engineer from Kenya</h3>
+<h3 align="center">Data Scientist from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerriea-star&label=Profile%20views&color=0e75b6&style=flat" alt="kerriea-star" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jsoftengineer" target="blank"><img src="https://img.shields.io/twitter/follow/jsoftengineer?logo=twitter&style=for-the-badge" alt="jsoftengineer" /></a> </p>
 
-- 🌱 I’m currently learning **Object Detection Using Yolo**
+- 🌱 I’m currently learning **Advanced AI Concepts**
 
 - 👨‍💻 All of my projects are available at [https://j-ai-engineer.netlify.app/](https://j-ai-engineer.netlify.app/)
 
-- 💬 Ask me about **Deep Learning and Neural Networks**
+- 💬 Ask me about **Artificial Intelligence**
 
 - 📫 How to reach me **ojared511@gmail.com**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jsoftengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jsoftengineer" height="30" width="40" /></a>
+<a href="https://twitter.com/JData_Scientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jsoftengineer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/jared-otieno-581672235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jared-otieno-581672235" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6313462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6313462" height="30" width="40" /></a>
 <a href="https://kaggle.com/jared otieno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jared otieno" height="30" width="40" /></a>
