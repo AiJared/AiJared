@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/AiJared" target="blank"><img src="https://img.shields.io/twitter/follow/AiJared?logo=twitter&style=for-the-badge" alt="AiJared" /></a> </p>
 
-- 🌱 I’m currently learning **Generating AI**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://j-ai-engineer.netlify.app/](https://j-ai-engineer.netlify.app/)
 
