@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://j-ai-engineer.netlify.app/](https://j-ai-engineer.netlify.app/)
+- 👨‍💻 All of my projects are available at https://aijared.vercel.app/
 
 - 💬 Ask me about **Artificial Intelligence**
 
