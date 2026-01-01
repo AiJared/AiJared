@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/AiJared" target="blank"><img src="https://img.shields.io/twitter/follow/AiJared?logo=twitter&style=for-the-badge" alt="AiJared" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently working on my startup **SignalDesk**
 
-- 👨‍💻 All of my projects are available at https://www.signaldesk.info/
+- 👨‍💻 More info about it at https://www.signaldesk.info/
 
 - 💬 Ask me about **Artificial Intelligence**
 
