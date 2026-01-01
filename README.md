@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at https://aijared.vercel.app/
+- 👨‍💻 All of my projects are available at https://www.signaldesk.info/
 
 - 💬 Ask me about **Artificial Intelligence**
 
-- 📫 How to reach me **ojared511@gmail.com**
+- 📫 How to reach me **jaredm@signaldesk.info**
 
 - ⚡ Fun fact **I like playing video games, reading books and travelling**
 
