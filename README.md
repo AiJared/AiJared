@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Artificial Intelligence**
 
-- 📫 How to reach me **jaredm@signaldesk.info**
+- 📫 How to reach me **ojared511@gmail.com**
 
 - ⚡ Fun fact **I like playing video games, reading books and travelling**
 
