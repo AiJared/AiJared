@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/AiJared" target="blank"><img src="https://img.shields.io/twitter/follow/AiJared?logo=twitter&style=for-the-badge" alt="AiJared" /></a> </p>
 
-- 🌱 I’m currently working on my startup **SignalDesk** and also just co-founded MorningRise AI.
+- 🌱 I’m currently working on my startup **SignalDesk AI**.
 
-- 👨‍💻 More info about it at https://www.signaldesk.info/ and https://morningriseai.co/ respectively
+- 👨‍💻 More info about it at https://www.signaldesk.info/. 
 
 - 💬 Ask me about **Artificial Intelligence**
 
